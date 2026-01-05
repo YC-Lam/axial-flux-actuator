@@ -1,6 +1,8 @@
 # axial-flux-actuator
  axial flux actuator.
 
+ ![motor](./img/motor.jpeg)
+
  ## Design parameters
  | parameter | value |
  | --------- | ----- |
